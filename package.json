@@ -1,0 +1,22 @@
+{
+  "name": "firstgame",
+  "version": "0.0.1",
+  "description": "Writing a game",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitihub.com/jasmeen94kaur"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "jasmeenkaur",
+  "license": "ISC"
+}
